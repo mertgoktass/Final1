@@ -1,0 +1,62 @@
+#page{
+    width: 250px;
+    margin:auto;
+    position: absolute;
+    left: 1000px;
+    top: 35px;
+    background: rgb(255, 182, 55);
+    padding:100px;
+  }
+  label{
+    display:block;
+    margin-top:5px;
+  }
+  input{
+    width: 200px;
+    height: 25px;
+    font-size:1.2em;
+  }
+  button{
+    border:none;
+    display:block;
+    margin-top:15px;
+    width: 204px;
+    height: 50px;
+    text-align: center;
+    font-size:1.2em;
+
+  }
+  table{
+    background: #0984e3;
+    margin:5px;
+    width: 100%;
+    color:#fff;
+
+  }
+  td,th{
+    border:1px solid white;
+    border-spacing: 0px;
+    margin: 0px;
+  }
+  .card
+  {border:none;
+    display:block;
+    margin-top:15px;
+    width: 204px;
+    height: 50px;
+    text-align: center;
+    font-size:1.2em;
+    
+  }
+  .col-sm-8{
+    border:none;
+    display:block;
+    margin-top:15px;
+    width: 204px;
+    height: 50px;
+    text-align: center;
+    font-size:0.75rem;
+
+  }
+  
+  
